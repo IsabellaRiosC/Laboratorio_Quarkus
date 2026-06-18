@@ -1,1 +1,2 @@
-# Laboratorio_Quarkus
+# LabAuth
+Para iniciar el laboratorio.
